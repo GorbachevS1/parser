@@ -1,0 +1,8 @@
+{
+    "require": {
+        "clue/buzz-react": "^2.9",
+        "imangazaliev/didom": "^1.18",
+        "clue/mq-react": "1.4",
+        "phpoffice/phpspreadsheet": "^1.21"
+    }
+}
